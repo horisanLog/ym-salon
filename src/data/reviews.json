@@ -1,0 +1,92 @@
+[
+  {
+    "id": "review-001",
+    "name": "A.K. 様",
+    "age": 32,
+    "occupation": "会社員（事務職）",
+    "rating": 5,
+    "comment": "デスクワークで悩んでいた肩こりが、AI診断で原因が明確になり、的確な施術で改善されました！数値で効果が見えるのも嬉しいです。",
+    "beforeSymptoms": ["慢性的な肩こり", "頭痛", "姿勢の悪さ"],
+    "afterEffects": ["肩こり軽減", "頭痛改善", "姿勢意識向上"],
+    "serviceUsed": ["AI姿勢診断コース", "ヘッドスパ&部位整体コース"],
+    "date": "2025-10-20",
+    "photoPermission": true,
+    "beforeAfterPhotos": {
+      "before": "/images/reviews/ak-before.webp",
+      "after": "/images/reviews/ak-after.webp"
+    }
+  },
+  {
+    "id": "review-002",
+    "name": "M.S. 様",
+    "age": 28,
+    "occupation": "主婦",
+    "rating": 4,
+    "comment": "産後の骨盤の歪みが気になっていましたが、丁寧な施術で改善されました。子連れでも安心して通えるのが嬉しいです。",
+    "beforeSymptoms": ["骨盤の歪み", "腰痛", "体型の変化"],
+    "afterEffects": ["骨盤調整", "腰痛軽減", "スタイルアップ"],
+    "serviceUsed": ["マタニティー骨格矯正コース"],
+    "date": "2025-10-21",
+    "photoPermission": false
+  },
+  {
+    "id": "review-003",
+    "name": "Y.T. 様",
+    "age": 35,
+    "occupation": "営業職",
+    "rating": 5,
+    "comment": "電磁パルスは寝ているだけで筋肉が鍛えられて、お腹まわりがスッキリ。仕事で忙しくても続けられそうです。",
+    "beforeSymptoms": ["運動不足", "お腹まわりの贅肉", "姿勢の崩れ"],
+    "afterEffects": ["筋力アップ", "お腹引き締め", "姿勢改善"],
+    "serviceUsed": ["電磁パルス", "くびれトリートメントコース"],
+    "date": "2025-10-25",
+    "photoPermission": true,
+    "beforeAfterPhotos": {
+      "before": "/images/reviews/yt-before.webp",
+      "after": "/images/reviews/yt-after.webp"
+    }
+  },
+  {
+    "id": "review-004",
+    "name": "H.N. 様",
+    "age": 41,
+    "occupation": "看護師",
+    "rating": 5,
+    "comment": "夜勤続きでパンパンだった脚のむくみが軽くなりました。AI診断で姿勢のクセも指摘してもらえて助かりました。",
+    "beforeSymptoms": ["脚のむくみ", "腰の重だるさ", "猫背"],
+    "afterEffects": ["むくみ改善", "腰の軽さ", "姿勢意識の向上"],
+    "serviceUsed": ["美脚リンパデトックスコース", "AI姿勢診断コース"],
+    "date": "2025-11-02",
+    "photoPermission": false
+  },
+  {
+    "id": "review-005",
+    "name": "K.R. 様",
+    "age": 30,
+    "occupation": "デザイナー",
+    "rating": 4,
+    "comment": "フェイシャルと整体を同時に受けられるのが魅力。顔のむくみが取れて、肩こりまで楽になりました。",
+    "beforeSymptoms": ["顔のむくみ", "肩こり", "目の疲れ"],
+    "afterEffects": ["むくみ改善", "肩の軽さ", "目のすっきり感"],
+    "serviceUsed": ["フェイシャルコース", "ヘッドスパ&部位整体コース"],
+    "date": "2025-11-04",
+    "photoPermission": true,
+    "beforeAfterPhotos": {
+      "before": "/images/reviews/kr-before.webp",
+      "after": "/images/reviews/kr-after.webp"
+    }
+  },
+  {
+    "id": "review-006",
+    "name": "S.U. 様",
+    "age": 46,
+    "occupation": "会社役員",
+    "rating": 5,
+    "comment": "姿勢が整うと同時に、体型もスッキリ。通いやすい価格で、スタッフの皆さんも親切です。",
+    "beforeSymptoms": ["反り腰", "肩甲骨まわりのコリ", "代謝の低下"],
+    "afterEffects": ["姿勢改善", "肩甲骨の可動域アップ", "ボディラインの引き締め"],
+    "serviceUsed": ["整体＋エステ セット120分"],
+    "date": "2025-11-06",
+    "photoPermission": false
+  }
+]

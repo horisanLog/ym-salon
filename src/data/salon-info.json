@@ -1,0 +1,42 @@
+{
+  "name": "Y'm 整体サロン",
+  "address": "埼玉県戸田市本町1-2-3 サンプルビル2F",
+  "phone": "048-123-4567",
+  "email": "info@ym-salon.com",
+  "businessHours": {
+    "monday": { "open": "09:00", "close": "20:00", "isHoliday": false },
+    "tuesday": { "open": "09:00", "close": "20:00", "isHoliday": false },
+    "wednesday": { "open": "09:00", "close": "20:00", "isHoliday": false },
+    "thursday": { "open": "09:00", "close": "20:00", "isHoliday": false },
+    "friday": { "open": "09:00", "close": "20:00", "isHoliday": false },
+    "saturday": { "open": "09:00", "close": "18:00", "isHoliday": false },
+    "sunday": { "open": "09:00", "close": "18:00", "isHoliday": false }
+  },
+  "regularHolidays": ["不定休"],
+  "specialHolidays": ["2025-12-29", "2025-12-30", "2025-12-31", "2026-01-01"],
+  "access": {
+    "nearestStation": "JR埼京線 戸田駅 東口",
+    "walkingTime": 5,
+    "directions": [
+      "戸田駅東口を出て直進",
+      "コンビニエンスストアを右折",
+      "2つ目の交差点を左折",
+      "レンガ調のサンプルビル2Fが当サロンです"
+    ]
+  },
+  "parking": {
+    "available": true,
+    "capacity": 3,
+    "fee": "無料",
+    "nearbyParking": ["戸田駅前パーキング（徒歩2分）", "市営駐車場（徒歩3分）"]
+  },
+  "socialMedia": {
+    "line": "https://line.me/R/ti/p/@ym-salon",
+    "instagram": "https://instagram.com/ym_salon"
+  },
+  "googleMapUrl": "https://www.google.com/maps?q=35.8017,139.6886",
+  "coordinates": {
+    "lat": 35.8017,
+    "lng": 139.6886
+  }
+}

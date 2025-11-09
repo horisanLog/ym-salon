@@ -1,0 +1,44 @@
+[
+  {
+    "id": "posture-improvement-tips",
+    "title": "デスクワーカー必見！簡単姿勢改善エクササイズ",
+    "slug": "posture-improvement-tips",
+    "excerpt": "長時間のデスクワークで悪化した姿勢を改善する、自宅でできる簡単エクササイズをご紹介します。",
+    "content": "# デスクワーカー必見！簡単姿勢改善エクササイズ\n\nデスクワークで前傾姿勢になりがちな方に向けて、椅子に座ったままできるストレッチと、立ったままの簡単エクササイズをまとめました。呼吸を整えながら1日5分を目安に継続しましょう。\n\n## ポイント\n- 肩甲骨まわりをしっかり動かす\n- 骨盤を立てる感覚を掴む\n- 首だけでなく背骨全体を意識する",
+    "category": "posture",
+    "tags": ["姿勢改善", "デスクワーク", "セルフケア"],
+    "publishedAt": "2025-10-25",
+    "featuredImage": "/images/blog/posture-tips.webp",
+    "author": "田中 美穂",
+    "readTime": 3,
+    "isPublished": true
+  },
+  {
+    "id": "ai-diagnosis-benefits",
+    "title": "AI姿勢診断で何がわかる？従来の診断との違い",
+    "slug": "ai-diagnosis-benefits",
+    "excerpt": "最新のAI技術を使った姿勢診断の仕組みと、従来の目視診断との違いについて詳しく解説します。",
+    "content": "# AI姿勢診断で何がわかる？\n\nAI姿勢診断では、わずかな骨格の傾きやバランスの崩れを3D解析し、改善の優先順位を可視化できます。正確なデータがあることで、ご自宅でのセルフケアも最適化できます。",
+    "category": "health",
+    "tags": ["AI診断", "姿勢分析", "科学的根拠"],
+    "publishedAt": "2025-10-28",
+    "featuredImage": "/images/blog/ai-diagnosis.webp",
+    "author": "田中 美穂",
+    "readTime": 5,
+    "isPublished": true
+  },
+  {
+    "id": "salon-news-opening",
+    "title": "プレオープン特別価格のお知らせ",
+    "slug": "grand-opening-campaign",
+    "excerpt": "プレオープン期間の特別価格と、ご紹介特典についてご案内します。",
+    "content": "# プレオープン特別価格について\n\n2025年12月末まで、初回体験は2,500円から。ご紹介いただいたお客様にも割引をご用意しています。詳しくはLINE公式アカウントで随時お知らせします。",
+    "category": "salon-news",
+    "tags": ["キャンペーン", "プレオープン", "お知らせ"],
+    "publishedAt": "2025-11-01",
+    "featuredImage": "/images/blog/opening.webp",
+    "author": "サロンスタッフ一同",
+    "readTime": 2,
+    "isPublished": true
+  }
+]

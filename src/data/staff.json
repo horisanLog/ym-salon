@@ -1,0 +1,35 @@
+[
+  {
+    "id": "staff-001",
+    "name": "田中 美穂",
+    "role": "院長 / セラピスト",
+    "qualifications": ["柔道整復師", "鍼灸師", "AI姿勢診断士"],
+    "experience": 8,
+    "photo": "/images/staff/tanaka.webp",
+    "message": "AI データと手技を組み合わせ、一人ひとりに合わせた施術で姿勢改善をサポートします。",
+    "specialties": ["姿勢改善", "骨盤矯正", "AI分析"],
+    "order": 1
+  },
+  {
+    "id": "staff-002",
+    "name": "佐藤 恵子",
+    "role": "エステティシャン",
+    "qualifications": ["認定エステティシャン", "リンパケアセラピスト"],
+    "experience": 6,
+    "photo": "/images/staff/sato.webp",
+    "message": "美容とリラクゼーションを両立し、心までほぐれるひとときをご提供します。",
+    "specialties": ["フェイシャルケア", "リンパドレナージュ", "美脚ケア"],
+    "order": 2
+  },
+  {
+    "id": "staff-003",
+    "name": "山本 健",
+    "role": "整体師",
+    "qualifications": ["整体師", "筋膜リリースインストラクター"],
+    "experience": 7,
+    "photo": "/images/staff/yamamoto.webp",
+    "message": "骨格と筋肉のバランスを整え、日常生活のクセからサポートいたします。",
+    "specialties": ["筋膜リリース", "肩こり改善", "スポーツ整体"],
+    "order": 3
+  }
+]

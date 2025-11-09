@@ -1,0 +1,82 @@
+[
+  {
+    "id": "faq-001",
+    "category": "ai-diagnosis",
+    "question": "AI姿勢診断はどのような仕組みですか？",
+    "answer": "3Dカメラで全身を撮影し、AIが姿勢の歪みや筋肉バランスを数値化します。結果はレポートで可視化され、施術とセルフケアのプランをご提案します。",
+    "order": 1,
+    "isFrequent": true
+  },
+  {
+    "id": "faq-002",
+    "category": "reservation",
+    "question": "予約方法を教えてください。",
+    "answer": "LINE公式アカウント、お電話、Webフォームからご予約いただけます。LINEが最も簡単で24時間受付可能です。",
+    "order": 2,
+    "isFrequent": true
+  },
+  {
+    "id": "faq-003",
+    "category": "service",
+    "question": "整体とエステを同日に受けられますか？",
+    "answer": "はい、整体＋エステのセットメニューをご用意しております。ご希望に合わせて内容をカスタマイズいたします。",
+    "order": 3,
+    "isFrequent": true
+  },
+  {
+    "id": "faq-004",
+    "category": "service",
+    "question": "施術は痛くありませんか？",
+    "answer": "お客様の体調やお悩みに合わせて刺激の強さを調整します。痛みを感じる場合は遠慮なくお申し付けください。",
+    "order": 4,
+    "isFrequent": true
+  },
+  {
+    "id": "faq-005",
+    "category": "payment",
+    "question": "支払い方法は何がありますか？",
+    "answer": "現金、クレジットカード（VISA / MasterCard / JCB）、主要な電子マネーに対応しています。",
+    "order": 5,
+    "isFrequent": false
+  },
+  {
+    "id": "faq-006",
+    "category": "reservation",
+    "question": "当日予約は可能ですか？",
+    "answer": "空き状況によりご案内可能です。お急ぎの場合はお電話でお問い合わせください。",
+    "order": 6,
+    "isFrequent": false
+  },
+  {
+    "id": "faq-007",
+    "category": "ai-diagnosis",
+    "question": "AI診断の結果は持ち帰れますか？",
+    "answer": "LINEまたはメールでレポートデータをお渡しします。セルフケアの記録にもご活用ください。",
+    "order": 7,
+    "isFrequent": true
+  },
+  {
+    "id": "faq-008",
+    "category": "access",
+    "question": "駐車場はありますか？",
+    "answer": "サロン専用の無料駐車場を3台分ご用意しています。満車の場合は近隣コインパーキングをご案内します。",
+    "order": 8,
+    "isFrequent": false
+  },
+  {
+    "id": "faq-009",
+    "category": "service",
+    "question": "着替えは必要ですか？",
+    "answer": "施術用ウェアをご用意していますので手ぶらでお越しください。電磁パルス施術時は動きやすい服装がおすすめです。",
+    "order": 9,
+    "isFrequent": false
+  },
+  {
+    "id": "faq-010",
+    "category": "payment",
+    "question": "キャンセル料はかかりますか？",
+    "answer": "ご予約前日の18時以降のキャンセルは施術料金の50%、当日のキャンセルは100%を申し受けます。体調不良の際はお早めにご連絡ください。",
+    "order": 10,
+    "isFrequent": false
+  }
+]
