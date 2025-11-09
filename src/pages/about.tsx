@@ -54,17 +54,17 @@ export default function AboutPage({ staff, salonInfo }: AboutPageProps) {
               moment」の頭文字。忙しい日常の中で、身体と心のバランスを整えるひとときを提供したいという想いから生まれました。AI
               姿勢診断で現状を見える化し、整体で骨格を整え、エステと電磁パルスで美しさと筋力をサポート。データと感覚の両方からアプローチすることで、持続的な変化につなげます。
             </p>
-            <ul className="space-y-2 rounded-3xl border border-crown/30 bg-white p-6 shadow-[0_18px_40px_rgba(199,162,83,0.12)] text-sm text-text-secondary">
-              <li className="flex items-start gap-2">
-                <span className="mt-1 inline-block h-1.5 w-1.5 flex-shrink-0 rounded-full bg-crown" />
+            <ul className="space-y-3 rounded-3xl border border-crown/30 bg-white p-8 shadow-[0_18px_40px_rgba(199,162,83,0.12)] text-sm leading-relaxed text-text-secondary">
+              <li className="flex items-start gap-3">
+                <span className="mt-1.5 inline-block h-1.5 w-1.5 flex-shrink-0 rounded-full bg-crown" />
                 初回カウンセリングでは生活習慣やお悩みを丁寧にヒアリングします。
               </li>
-              <li className="flex items-start gap-2">
-                <span className="mt-1 inline-block h-1.5 w-1.5 flex-shrink-0 rounded-full bg-crown" />
+              <li className="flex items-start gap-3">
+                <span className="mt-1.5 inline-block h-1.5 w-1.5 flex-shrink-0 rounded-full bg-crown" />
                 施術スペースは全て個室。ゆったりとリラックスしてお過ごしいただけます。
               </li>
-              <li className="flex items-start gap-2">
-                <span className="mt-1 inline-block h-1.5 w-1.5 flex-shrink-0 rounded-full bg-crown" />
+              <li className="flex items-start gap-3">
+                <span className="mt-1.5 inline-block h-1.5 w-1.5 flex-shrink-0 rounded-full bg-crown" />
                 産前産後のケアも充実。お子様連れでのご来店もご相談ください。
               </li>
             </ul>

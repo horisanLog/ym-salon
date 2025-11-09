@@ -108,10 +108,7 @@ export default function AIDiagnosisPage() {
               <p className="mt-1 text-xs text-text-secondary">
                 初回限定特別価格・レポート付き
               </p>
-              <Link
-                href="/reservation"
-                className="mt-6 inline-flex w-full items-center justify-center rounded-full bg-accent px-4 py-2 text-sm font-semibold text-white shadow-md transition-colors hover:bg-accent-strong"
-              >
+              <Link href="/reservation" className="btn-primary mt-6 w-full">
                 診断を予約する
               </Link>
             </div>
